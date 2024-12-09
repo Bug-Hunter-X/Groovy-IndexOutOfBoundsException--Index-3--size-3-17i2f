@@ -1,0 +1,1 @@
+This repository demonstrates a common Groovy error: the IndexOutOfBoundsException.  The `bug.groovy` file contains code that attempts to access an element beyond the bounds of a list, resulting in this exception.  The `bugSolution.groovy` provides a solution using safe navigation or size checks.
